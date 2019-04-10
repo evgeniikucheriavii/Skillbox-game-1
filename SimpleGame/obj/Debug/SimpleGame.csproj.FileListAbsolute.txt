@@ -1,0 +1,14 @@
+d:\msvs\Files\projects\SimpleGame\SimpleGame\bin\Debug\SimpleGame.exe.config
+d:\msvs\Files\projects\SimpleGame\SimpleGame\bin\Debug\SimpleGame.exe
+d:\msvs\Files\projects\SimpleGame\SimpleGame\bin\Debug\SimpleGame.pdb
+d:\msvs\Files\projects\SimpleGame\SimpleGame\obj\Debug\SimpleGame.csprojResolveAssemblyReference.cache
+d:\msvs\Files\projects\SimpleGame\SimpleGame\obj\Debug\MainWindow.g.cs
+d:\msvs\Files\projects\SimpleGame\SimpleGame\obj\Debug\App.g.cs
+d:\msvs\Files\projects\SimpleGame\SimpleGame\obj\Debug\SimpleGame_MarkupCompile.cache
+d:\msvs\Files\projects\SimpleGame\SimpleGame\obj\Debug\SimpleGame_MarkupCompile.lref
+d:\msvs\Files\projects\SimpleGame\SimpleGame\obj\Debug\MainWindow.baml
+d:\msvs\Files\projects\SimpleGame\SimpleGame\obj\Debug\SimpleGame.g.resources
+d:\msvs\Files\projects\SimpleGame\SimpleGame\obj\Debug\SimpleGame.Properties.Resources.resources
+d:\msvs\Files\projects\SimpleGame\SimpleGame\obj\Debug\SimpleGame.csproj.GenerateResource.Cache
+d:\msvs\Files\projects\SimpleGame\SimpleGame\obj\Debug\SimpleGame.exe
+d:\msvs\Files\projects\SimpleGame\SimpleGame\obj\Debug\SimpleGame.pdb
